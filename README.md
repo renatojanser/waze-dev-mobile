@@ -19,6 +19,11 @@ Nesse Aplicativo Mobile em React Native "Waze Devs" localiza devs e suas tecnolo
 ## Pré-requisitos
 
 - [Node.js](https://nodejs.org/en/)
+- [Expo](https://expo.io/)
+
+````js
+npm install expo-cli --global
+````
 
 
 ## Instalação e execução
@@ -26,7 +31,7 @@ Nesse Aplicativo Mobile em React Native "Waze Devs" localiza devs e suas tecnolo
 1. Faça um clone desse repositório;
 2. Entre na pasta `cd waze-dev-mobile`;
 3. Rode `npm install` para instalar as dependências;
-3. Rode `npm start` para iniciar a aplicação.
+4. Rode `npm start` para iniciar a aplicação.
 
 ## Licença
 
